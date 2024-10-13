@@ -1,13 +1,13 @@
 # CG-Artist-AI
 
 Welcome to **CG-Artist-AI**, a project designed to revolutionize the world of CG illustration and concept design by
-integrating advanced AI tools like MidJourney and Stable Diffusion. Whether you're a professional artist or just getting
+integrating advanced AI tools like MidJourney and ComfyUI. Whether you're a professional artist or just getting
 started, this project aims to streamline the creative process and unlock new levels of visual expression.
 
 ## Project Overview
 
 This repository is focused on using AI to enhance **CG illustration** and **concept design** workflows. With tools like
-MidJourney and Stable Diffusion, artists can rapidly generate high-quality visuals, explore different styles, and
+MidJourney and ComfyUI, artists can rapidly generate high-quality visuals, explore different styles, and
 iterate on ideas faster than ever before. The goal is to empower artists to push the boundaries of what's possible in
 the world of digital art.
 
