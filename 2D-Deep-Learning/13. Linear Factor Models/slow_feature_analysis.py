@@ -19,6 +19,7 @@ sfa = SFA.SFA(y, x, fun=SFA.FUN_PROD, method=SFA.TE_teJ)
 
 # Step 4: Optimize the SFA model to find slow features
 sfa.optimize()
+print(dir(sfa))
 
 # Step 5: Access the coefficients (beta) and lambda values
 beta = sfa.get_beta()  # Coefficients, might be related to slow features
